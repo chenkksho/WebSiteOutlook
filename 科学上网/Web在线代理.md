@@ -3,12 +3,14 @@
 * https://proxybrowser.xyz/
 * https://github.com/EtherDream/jsproxy/
 * https://demo.glyptodon.com
+* http://webproxy.to/
 * https://www.rabb.it
 * https://weboas.is/
 * https://www.anyproxy.cn
 * https://www.anyproxy.top (挂了)
 * https://cn.bing.com/translator/ (挂了)
 * https://proxy.zagon.net.pe
+* https://www.croxyproxy.com
 * https://unblocksite.site/
 
 
