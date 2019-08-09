@@ -1,4 +1,4 @@
-# ***WebSiteOutlook***（冲出你的窗口）
+# ***WebOutlook***（冲出你的窗口）
 
 [![WebSiteOutlook](https://img.shields.io/badge/%F0%9F%93%96repo-WebSiteOutlook-brightgreen.svg?longCache=true&style=flat-square)](https://hoodiearon.github.io/WebSiteOutlook/) [![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoodiearon-lightgrey.svg?longCache=true&style=flat-square)](https://hoodiearon.github.io/) [![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoodiearon@outlook.com) [![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoodiearon)
 
@@ -20,7 +20,7 @@
 
 ***btw***，不能及时地回复email或telegram，为此表示歉意，谢谢。
 
-***[wiki WebSiteOutlook](https://hoodiearon.github.io/WebSiteOutlook/)***
+***[wiki WebOutlook](https://hoodiearon.github.io/WebOutlook/)***
 
 ## 科学上网
 
